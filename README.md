@@ -1,6 +1,6 @@
-# Relatorio Meta Ads: Junior vs Leo
+# Relatorio Meta Ads: Figueira Marketing
 
-Landing page estatica com relatorio comparativo de campanhas Meta Ads para imoveis na faixa de R$ 600 mil.
+Landing page estatica feita pela Figueira Marketing com relatorio comparativo de campanhas Meta Ads para imoveis na faixa de R$ 600 mil.
 
 ## Como abrir
 
