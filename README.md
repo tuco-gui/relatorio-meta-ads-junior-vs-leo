@@ -11,3 +11,4 @@ Abra `index.html` no navegador. O botao `PDF / Imprimir` permite salvar o relato
 - `index.html`: estrutura e conteudo do relatorio
 - `styles.css`: layout responsivo e estilos de impressao
 - `script.js`: acionamento do botao de impressao
+- `assets/figueira-marketing-logo.png`: logo usado no topo do relatorio
